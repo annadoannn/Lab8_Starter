@@ -9,4 +9,4 @@ GitHub Pages: https://annadoannn.github.io/Lab8_Starter/
 
 ![PWA Image](pwa.png)
 
-**NOTE:** I changed the src file path for the icons in `manifest.json` to get rid of the errors in the DevTools Console about not having the right filepath. Due to that error, I was getting an image does not exist error. 
+**NOTE:** I changed the src file path for the icons in `manifest.json` to get rid of the errors in the DevTools Console about not having the right filepath. Due to that error, I was getting an image does not exist error. Otherwise, I would have left the original `"src": "/assets/images/icons/icon-192x192.png"` untouched. 
